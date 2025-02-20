@@ -8,7 +8,7 @@ version = "0.1"
 name = "Project-Echo-Signal-Processing-Toolbox"
 requires-python = ">= 3.11"
 readme = "README.md"
-
+license = {file = "LICENSE"}
 dependencies = [
     "numpy",
     "matplotlib",
