@@ -1,5 +1,5 @@
 import numpy as np
-from src import frequency_domain_fncs as f
+from src.projechosignal import frequency_domain_fncs as f
 import wave
 from numpy.typing import ArrayLike
 from typing import NamedTuple

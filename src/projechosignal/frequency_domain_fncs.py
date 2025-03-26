@@ -1,6 +1,6 @@
 import numpy as np
 import math
-from src import time_domain_fncs as TD
+from src.projechosignal import time_domain_fncs as TD
 
 
 def hz_to_mel(f):
