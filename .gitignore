@@ -166,3 +166,4 @@ cython_debug/
 adam_local.*
 *.ipynb
 wavs/
+.pypirc
