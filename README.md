@@ -1,12 +1,20 @@
-# Repository for Audio Processing in Project Echo.
+# Repository for Audio Processing Package/Toolbox in Project Echo.
 
 > [!TIP]
-> We will likely have this downloadable as a library, so don't you worry about using for now!!
+> Star the repository or cloning won't work :thumbs_up:
+##### how to install
 
+```console
+pip install -i https://test.pypi.org/simple/ Project-Echo-Signal-Processing-Toolbox
 
-Repository includes most functions required to setup audio in a readable form for your lovely CNNs.
+```
+##### Example Usage
+Say you have a audio file (wav only files) called `Dr_Siobhan_North_Yapping.wav` under the `$HOME` dir, here is example code on how to create a mel-scale spectrogram for that audio.
+```python
 
-### How to set-up for developing:
+```
+
+##### How to set-up for developing:
 
 > [!NOTE]  
 > Ensure your computer has a version of python 3 above 3.11, as well as Git and an IDE that supports the use of such.
